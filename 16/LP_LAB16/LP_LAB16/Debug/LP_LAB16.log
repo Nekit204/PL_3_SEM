@@ -1,0 +1,4 @@
+﻿  MFST.cpp
+C:\Users\User\Desktop\учеба\2 курс\ЯП\Лабораторные\Лабораторная работа 16\LP_LAB16\LP_LAB16\MFST.cpp(248,68): warning C4267: =: преобразование из "size_t" в "short"; возможна потеря данных
+MSVCRTD.lib(exe_main.obj) : error LNK2019: ссылка на неразрешенный внешний символ _main в функции "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\User\Desktop\учеба\2 курс\ЯП\Лабораторные\Лабораторная работа 16\LP_LAB16\Debug\LP_LAB16.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
