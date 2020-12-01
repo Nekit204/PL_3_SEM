@@ -1,0 +1,5 @@
+﻿  PolishNotation.cpp
+C:\Users\User\Desktop\учеба\2 курс\ЯП\Лабораторные\Лабораторная работа 15\LP_LAB15\LP_LAB15\PolishNotation.cpp(35,17): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Desktop\учеба\2 курс\ЯП\Лабораторные\Лабораторная работа 15\LP_LAB15\LP_LAB15\PolishNotation.cpp(28,7): warning C4101: func: неиспользованная локальная переменная
+C:\Users\User\Desktop\учеба\2 курс\ЯП\Лабораторные\Лабораторная работа 15\LP_LAB15\LP_LAB15\PolishNotation.cpp(19): warning C4715: prioritet: значение возвращается не при всех путях выполнения
+  LP_LAB15.vcxproj -> C:\Users\User\Desktop\учеба\2 курс\ЯП\Лабораторные\Лабораторная работа 15\LP_LAB15\Debug\LP_LAB15.exe
