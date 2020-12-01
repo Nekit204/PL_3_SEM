@@ -1,0 +1,69 @@
+Тест:без ошибок
+------ Протокол ------
+------ Дата: 28.10.2020 15:20:11------
+----- Параметры -----
+-in: in.txt
+-out: in.txt.out
+-log: in.txt.log
+----- Исходные данные -----
+Всего символов : 617
+Проигнорировано: 86
+Всего строк    : 37
+1 tfi(ti,ti)
+2 {
+3 dti;
+4 i=iv(ivi);
+5 ri;
+6 };
+7 tfi(ti,ti)
+8 {
+9 dti;
+10 dtfi(ti,ti,ti);
+11 i=i(i,l,l)vi;
+12 ri;
+13 };
+14 m
+15 {
+16 dti;
+17 dti;
+18 dti;
+19 dti;
+20 dti;
+21 dti;
+22 dtfi(ti);
+23 i=l;
+24 i=l;
+25 dti;
+26 i=l;
+27 i=l;
+28 i=i(i,i);
+29 i=i(i,i);
+30 pl;
+31 pi;
+32 pi;
+33 pi(i);
+34 rl;
+35 };
+           |Имя |     |Общий тип |    |Тип |        |Первое вхождение |      |Значение |
+             fi        integer        функция              1                       -1 
+              x        integer       параметр              1                        0                
+              y        integer       параметр              1                        0                
+              z        integer     переменная              3                        0                
+             fs         string        функция              9                       -1 
+              a         string       параметр              9                     null 
+              b         string       параметр              9                     null 
+              c         string     переменная             11                     null 
+         substr         string        функция             12                       -1 
+              p        integer       параметр             12                        0                
+              n        integer       параметр             12                        0                
+             L1        integer        литерал             13                        1                
+             L2        integer        литерал             13                        3                
+             sa        integer     переменная             22                        0                
+             sb         string     переменная             23                     null 
+             sc         string     переменная             24                     null 
+         strlen        integer        функция             25                       -1 
+             L3        integer        литерал             27                        5                
+              v         string     переменная             28                     null 
+             L4         string        литерал             29                  1234567890(длина= 10) 
+             L5         string        литерал             33РєРѕРЅС‚СЂРѕР»СЊРЅС‹Р№ РїСЂРёРјРµСЂ(длина= 35) 
+             L6        integer        литерал             37                        0                

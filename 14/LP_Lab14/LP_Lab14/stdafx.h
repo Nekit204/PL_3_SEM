@@ -1,0 +1,8 @@
+#include "\Users\User\Desktop\учеба\1 курс\2 семестр\Ћабораторные работы яп\LP_lab13\FST.h"
+#include "\Users\User\Desktop\учеба\1 курс\2 семестр\Ћабораторные работы яп\LP_lab13\Error.h"
+#include "\Users\User\Desktop\учеба\1 курс\2 семестр\Ћабораторные работы яп\LP_lab13\In.h"
+#include "\Users\User\Desktop\учеба\1 курс\2 семестр\Ћабораторные работы яп\LP_lab13\Log.h"
+#include "\Users\User\Desktop\учеба\1 курс\2 семестр\Ћабораторные работы яп\LP_lab13\Parm.h"
+#include"\Users\\User\Desktop\учеба\2 курс\яѕ\Ћабораторные\Ћабораторна€ работа 16\LP_LAB16\LP_LAB16\Greibah.h"
+#include"\Users\\User\Desktop\учеба\2 курс\яѕ\Ћабораторные\Ћабораторна€ работа 16\LP_LAB16\LP_LAB16\MFST.h"
+#include"Lt.h"
